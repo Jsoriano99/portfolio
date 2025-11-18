@@ -1,0 +1,12 @@
+{
+  "priority": 1,
+  "title": "Amazon Product Scraper",
+  "shortDescription": "Script avanzado para extraer precios, stock y valoraciones de productos de Amazon usando Python y Playwright.",
+  "cover": "/projects/amazon.png",
+  "type": "Automation 🔧",
+  "livePreview": "",
+  "siteAge": "New",
+  "visitors": "N/A",
+  "githubLink": "",
+  "earned": ""
+}

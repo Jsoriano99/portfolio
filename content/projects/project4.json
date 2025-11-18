@@ -1,0 +1,12 @@
+{
+    "priority": 4,
+    "title": "Local Business Automation Suite",
+    "shortDescription": "Sistema que automatiza tareas de pequeños negocios: extracción de datos de proveedores, actualización automática de precios y envío diario de reportes.",
+    "cover": "/projects/automation.png",
+    "type": "Automation 🔄",
+    "livePreview": "#",
+    "siteAge": "New",
+    "visitors": "N/A",
+    "githubLink": "",
+    "earned": "Prototipo listo para clientes locales"
+}
