@@ -70,34 +70,40 @@ export const projects = [
 // Service Data
 export const serviceData = [
   {
+    icon: NodejsIcon,
+    title: 'Process Automation',
+    shortDescription:
+      'Designing automation workflows for small and medium businesses using APIs, webhooks, and no-code/low-code tools to save time and reduce manual tasks.',
+  },
+  {
     icon: JavaScriptIcon,
-    title: 'JavaScript Development',
-    shortDescription: 'Creating dynamic and interactive web applications using JavaScript.',
+    title: 'Web Scraping & Data Extraction',
+    shortDescription:
+      'Building reliable scrapers to extract structured data from websites for competitive analysis, lead generation, and monitoring.',
+  },
+  {
+    icon: SocketIcon,
+    title: 'API Integration',
+    shortDescription:
+      'Connecting different platforms and services through REST APIs to create seamless automated systems.',
   },
   {
     icon: ReactIcon,
-    title: 'React.js Development',
-    shortDescription: 'Building modern and responsive user interfaces with React.js.',
-  },
-  {
-    icon: NodejsIcon,
-    title: 'Node.js Backend',
-    shortDescription: 'Developing scalable server-side applications using Node.js.',
+    title: 'Data Dashboards & Analytics',
+    shortDescription:
+      'Transforming raw data into actionable dashboards and reports using modern web technologies.',
   },
   {
     icon: NextjsIcon,
-    title: 'Next.js Development',
-    shortDescription: 'Creating server-rendered React applications with Next.js.',
-  },
-  {
-    icon: TypescriptIcon,
-    title: 'TypeScript Development',
-    shortDescription: 'Ensuring robust and maintainable code with TypeScript.',
+    title: 'Next.js Web Applications',
+    shortDescription:
+      'Developing fast, SEO-optimized and scalable web applications using Next.js and modern frontend practices.',
   },
   {
     icon: TailwindCSS,
-    title: 'Tailwind CSS Styling',
-    shortDescription: 'Designing beautiful and responsive interfaces with Tailwind CSS.',
+    title: 'Digital Solutions for Local Businesses',
+    shortDescription:
+      'Creating lightweight digital tools and automation systems tailored for local professionals and small businesses.',
   },
 ]
 

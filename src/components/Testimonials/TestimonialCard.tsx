@@ -41,7 +41,7 @@ const TestimonialCard: FC<TestimonialCardProps> = ({
           ))}
         </div>
         <div>
-          <Image src={image} alt={name} width={50} height={50} className="mx-auto rounded-full" />
+          {/* <Image src={image} alt={name} width={50} height={50} className="mx-auto rounded-full" /> */}
           <p className="text-neutral text-lg font-semibold">{name}</p>
           <p className="text-neutral/60 text-sm">{title}</p>
         </div>

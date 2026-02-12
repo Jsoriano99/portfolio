@@ -19,18 +19,12 @@ const Hero = () => {
           </h1>
 
           <h2 className="text-neutral mt-3">
-          Web scraping & automation to make your business faster and smarter
+            Web scraping & automation to make your business faster and smarter
           </h2>
 
           <div className="mt-6 flex flex-wrap gap-6">
             <a
-              href="mailto:jsorianopijuan99@gmail.com"
-              aria-label="Connect with me"
-              className="bg-accent min-w-32 cursor-pointer rounded-lg px-[14px] py-[10px] text-center text-sm font-medium text-[#00071E]">
-              Hire Me
-            </a>
-            <a
-              href="https://github.com/Jsoriano99"
+              href="https://www.linkedin.com/in/jorge-soriano-piju%C3%A1n/"
               aria-label="View LinkedIn Profile"
               className="text-neutral bg-secondary cursor-pointer rounded-lg px-[14px] py-[10px] text-sm">
               LinkedIn Profile
@@ -45,7 +39,7 @@ const Hero = () => {
               fill={true}
               priority={true}
               sizes="(min-width: 1024px) 25.75rem, (min-width: 768px) 20rem, (min-width: 640px) 15rem, 14rem"
-              alt="Jorge Soriano — Web Scraping & Automation."
+              alt="Jorge Soriano — Full Stack Developer & Automation."
               className="object-contain p-7"
             />
             <Ellipse

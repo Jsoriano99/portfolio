@@ -1,8 +1,8 @@
 {
-  "name": "Marcos Villar",
-  "title": "CEO",
-  "feedback": "La automatización que diseñó Jorge ha optimizado nuestro flujo de trabajo de una forma brutal. Pasamos de recopilar datos manualmente durante horas a tenerlos listos cada mañana, integrados en nuestro dashboard. Profesional, eficiente y con una capacidad técnica que sorprende.",
-  "image": "https://i.pravatar.cc/150?img=12",
-  "stars": 5,
-  "createdAt": "2025-01-01"
+  "name": "Laura Sánchez",
+  "title": "Dueña de negocio local",
+  "feedback": "El sistema de scraping y generación de leads nos ha ayudado a detectar oportunidades que antes pasaban desapercibidas. Trabajo técnico sólido y comunicación clara durante todo el proceso.",
+  "image": "https://ui-avatars.com/api/?name=Laura+Sanchez",
+  "stars": 4,
+  "createdAt": "2025-02-11"
 }
