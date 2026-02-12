@@ -1,7 +1,6 @@
 import { Testimonial } from '@/lib/types'
 import { isInViewport } from '@/utils'
 import { StarIcon } from '@/utils/icons'
-import Image from 'next/image'
 import { FC, useEffect, useRef } from 'react'
 
 interface TestimonialCardProps {
@@ -10,7 +9,7 @@ interface TestimonialCardProps {
 }
 
 const TestimonialCard: FC<TestimonialCardProps> = ({
-  testimonial: { name, title, feedback, image, stars },
+  testimonial: { name, title, feedback, stars },
   handleActiveCard,
 }) => {
   const cardRef = useRef<HTMLDivElement>(null)
