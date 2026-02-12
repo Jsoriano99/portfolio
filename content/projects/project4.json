@@ -1,12 +1,12 @@
 {
     "priority": 4,
-    "title": "Local Business Automation Suite",
+    "title": "Local Business Automation Generator Leads",
     "shortDescription": "Sistema que automatiza tareas de pequeños negocios: extracción de datos de proveedores, actualización automática de precios y envío diario de reportes.",
     "cover": "/projects/automation.png",
     "type": "Automation 🔄",
-    "livePreview": "#",
+    "livePreview": "",
     "siteAge": "New",
     "visitors": "N/A",
-    "githubLink": "",
+    "githubLink": "https://github.com/Jsoriano99/maps-scraper",
     "earned": "Prototipo listo para clientes locales"
 }
