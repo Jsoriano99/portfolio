@@ -1,0 +1,12 @@
+{
+  "priority": 2,
+  "title": "CRM en Notion + n8n + Telegram",
+  "shortDescription": "Sistema CRM construido sobre Notion, integrado con n8n y Telegram para la automatización y gestión de notificaciones.",
+  "cover": "/projects/ecommerce.png",
+  "type": "Automation ⚙️",
+  "livePreview": "",
+  "siteAge": "New",
+  "visitors": "N/A",
+  "githubLink": "https://github.com/Jsoriano99/CRM_Notion2",
+  "earned": ""
+}

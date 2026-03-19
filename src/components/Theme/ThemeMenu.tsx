@@ -11,15 +11,19 @@ const ThemeMenu = () => {
   const menuRef = useOutsideClick(() => setShowThemeMenu(false))
 
   useEffect(() => {
-    if (window) setTheme(localStorage.getItem('theme') ?? theme)
+    if (typeof window === 'undefined') return
+    const saved = localStorage.getItem('theme')
+    if (saved) setTheme(saved)
   }, [])
 
   useEffect(() => {
-    if (window) document.documentElement.setAttribute('data-theme', theme)
+    if (typeof window !== 'undefined') {
+      document.documentElement.setAttribute('data-theme', theme)
+    }
   }, [theme])
 
   const changeTheme = (theme: string) => {
-    if (window) {
+    if (typeof window !== 'undefined') {
       setTheme(theme)
       localStorage.setItem('theme', theme)
     }
