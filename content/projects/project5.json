@@ -2,7 +2,7 @@
   "priority": 5,
   "title": "Patrón Adapter B1 MDAS",
   "shortDescription": "Implementación en Java del Patrón de Diseño Adapter para la asignatura MDAS.",
-  "cover": "/projects/ecommerce.png",
+  "cover": "/projects/abstract-factory.png",
   "type": "Backend ☕",
   "livePreview": "",
   "siteAge": "New",

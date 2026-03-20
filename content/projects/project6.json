@@ -2,7 +2,7 @@
   "priority": 6,
   "title": "Patrón Factory B1 MDAS",
   "shortDescription": "Implementación en Java del Patrón de Diseño Abstract Factory simulando el sistema de pedidos de un restaurante.",
-  "cover": "/projects/ecommerce.png",
+  "cover": "/projects/factory-method.png",
   "type": "Backend ☕",
   "livePreview": "",
   "siteAge": "New",

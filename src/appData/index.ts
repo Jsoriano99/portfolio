@@ -19,7 +19,7 @@ export const projects = [
     shortDescription:
       'Scraper en Python y Playwright para extraer precios, stock, valoraciones y número de reseñas de productos de Amazon. Pensado para monitorizar productos y estudiar la competencia.',
     cover:
-      'https://images.unsplash.com/photo-1526498460520-4c246339dccb?q=80&w=2070&auto=format&fit=crop',
+      '/projects/amazon.png',
     livePreview: '#',
     type: 'Data Scraping 📦',
     siteAge: 'Personal project',
